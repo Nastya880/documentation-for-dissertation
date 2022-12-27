@@ -7,3 +7,7 @@
     1. Сравнить два элемента.
 
     2. Поменять элементы местами.
+
+![Alt for Imsage](../1.png)
+![Alt for Imsage](2.png)
+![Alt for Imsage](image.png)
